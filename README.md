@@ -30,3 +30,5 @@ now you need to forward this to your github account and the command for that is 
 git push -u origin main(master) enter
 for the first time it will ask your git user name and password
 then go to your git repository and refresh the page
+you will see README.m and text file that you created.
+and when you open this firstlearn text file you see what you wrote in it
