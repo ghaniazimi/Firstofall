@@ -38,4 +38,4 @@ go to git
 git commit -m "second commit" firstlearn.txt and enter
 then push it
 git push -u origin main(master) enter
-go and refresh your page and you will see the changes 
+go and refresh your page and you will see the changes  
